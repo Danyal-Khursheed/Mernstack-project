@@ -1,9 +1,9 @@
 Greeting , Wellcome to my github.
 
-LANGUAGES:
+<h3>LANGUAGES:</h3>
   In this Project I have used HTML (handlebars) , CSS , Javascript , Node.Js , Express.JS , MongoDB,
 
-WORKING:
+<h3>WORKING:</h3>
   1 ) First of all I have created a UI using html (handlebars) , css .
   
 ![Screenshot 2023-08-21 154750](https://github.com/Danyal-Khursheed/Mernstack-project/assets/113462173/4a207fd4-2ae1-4db2-84bc-3096fcc2eedb)
@@ -18,7 +18,7 @@ WORKING:
   
   ![Screenshot 2023-08-21 154927](https://github.com/Danyal-Khursheed/Mernstack-project/assets/113462173/ee109c2e-5175-4b8d-97ae-712048efa709)
 
-<h1>HOW RO RUN</h1>
+<h3>HOW RO RUN</h3>
 
 Extract file from gitub to you computer and run this command
-<h1>npm run dev</h1>
+<h4>npm run dev</h4>
